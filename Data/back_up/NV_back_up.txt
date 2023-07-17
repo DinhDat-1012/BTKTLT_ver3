@@ -1,0 +1,7 @@
+<code>0001</code><name>dinh duc dat </name><sex>male</sex><dob>10/12/2003</dob> 
+<code>0002</code><name>dinh thi hien </name><sex>female</sex><dob>28/07/1991</dob>
+<code>0003</code><name>dinh thi hai yen </name><sex>female</sex><dob>null</dob>
+<code>0004</code><name>tran anh tuan </name><sex>male</sex><dob>16/08/2002</dob>
+<code>0005</code><name>vo tuan cuong </name><sex>male</sex><dob>31/10/2003</dob>
+<code>0006</code><name>nguyen thi thu hien </name><sex>female</sex><dob>null</dob>
+<code>0007</code><name>tran thi hoai trang </name><sex>female</sex><dob>null</dob>

@@ -1,0 +1,84 @@
+ Status: Open File NV.bin successfuly.
+
+ Status: Open File DT.bin successfuly.
+
+ Status: Open File NVDT.bin successfuly.
+
+ Status: Close File NV.bin successfuly.
+
+ Status: Close File DT.bin successfuly.
+
+ Status: Close File NVDT.bin successfuly.
+
+ Status : Open program sucessfuly.
+ Status: Open File NV.bin successfuly.
+
+ Status: Open File DT.bin successfuly.
+
+ Status: Open File NVDT.bin successfuly.
+
+ Status: Close File NV.bin successfuly.
+
+ Status: Close File DT.bin successfuly.
+
+ Status: Close File NVDT.bin successfuly.
+
+ Status : Open program sucessfuly.
+Time: 13:19:17 PM 7/17/2023 : Status: Successfuly removed  employee record : Code: <0018>
+
+Time: 13:19:44 PM 7/17/2023 : Save file Succeed !! 
+Time: 13:19:47 PM 7/17/2023 : Status : Close program sucessfuly.
+ Status: Open File NV.bin successfuly.
+
+ Status: Open File DT.bin successfuly.
+
+ Status: Open File NVDT.bin successfuly.
+
+ Status: Close File NV.bin successfuly.
+
+ Status: Close File DT.bin successfuly.
+
+ Status: Close File NVDT.bin successfuly.
+
+ Status : Open program sucessfuly.
+Time: 13:25:39 PM 7/17/2023 : Status : Close program sucessfuly.
+ Status: Open File NV.bin successfuly.
+
+ Status: Open File DT.bin successfuly.
+
+ Status: Open File NVDT.bin successfuly.
+
+ Status: Close File NV.bin successfuly.
+
+ Status: Close File DT.bin successfuly.
+
+ Status: Close File NVDT.bin successfuly.
+
+ Status : Open program sucessfuly.
+ Status: Open File NV.bin successfuly.
+
+ Status: Open File DT.bin successfuly.
+
+ Status: Open File NVDT.bin successfuly.
+
+ Status: Close File NV.bin successfuly.
+
+ Status: Close File DT.bin successfuly.
+
+ Status: Close File NVDT.bin successfuly.
+
+ Status : Open program sucessfuly.
+Time: 13:50:59 PM 7/17/2023 : Status : Close program sucessfuly.
+ Status: Open File NV.bin successfuly.
+
+ Status: Open File DT.bin successfuly.
+
+ Status: Open File NVDT.bin successfuly.
+
+ Status: Close File NV.bin successfuly.
+
+ Status: Close File DT.bin successfuly.
+
+ Status: Close File NVDT.bin successfuly.
+
+ Status : Open program sucessfuly.

@@ -1,0 +1,8 @@
+<code>0001</code><name>Quan li tai san</name><begin>12/01/2002</begin><end>12/12/2010</end><cost>100000000</cost>
+<code>0002</code><name>Quan li chuoi cung ung</name><begin>12/01/2004</begin><end>12/12/2019</end><cost>500000000</cost>
+<code>0003</code><name>Hach toan chi phi</name><begin>31/01/2010</begin><end>12/12/2020</end><cost>958000000</cost>
+<code>0004</code><name>Quan li tai san cong</name><begin>12/01/2002</begin><end>12/12/2010</end><cost>198000000</cost>
+<code>0005</code><name>Xay dung chuoi quan li</name><begin>12/01/2002</begin><end>12/12/2010</end><cost>92000000000</cost>
+<code>0006</code><name>Quan li tai san</name><begin>12/01/2002</begin><end>12/12/2010</end><cost>1210000000</cost>
+<code>0007</code><name>Quan li tai san tu nhan</name><begin>12/01/2002</begin><end>12/12/2010</end><cost>1010000000</cost>
+<code>0008</code><name>Quan li chi phi</name><begin>12/01/2002</begin><end>12/12/2010</end><cost>7010000000</cost>
